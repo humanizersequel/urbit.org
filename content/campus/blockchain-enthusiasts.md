@@ -10,7 +10,7 @@ hide_previous_title = "true"
 image = "https://media.urbit.org/site/understanding-urbit/urbit-id/urbit-id-cards%402x.png"
 +++
 
-After 15 years, the unsolved part of blockchains is still off-chain interaction. Sure, we have centralized platforms that will allow users to wear an NFT as a badge, and some even more centralized attempts at governance tooling, but we have yet to see the promised Cambrian explosion of general-purpose decentralized applications. What happened?
+Despite impressive progress in on-chain mechanics, the unsolved part of blockchains is still off-chain interaction. Sure, we have centralized platforms that will allow users to wear an NFT as a badge, and some even more centralized attempts at governance tooling, but we have yet to see the promised Cambrian explosion of general-purpose decentralized applications. What happened?
 
 It turns out that without full-stack sovereignty — which is to say, without Urbit — attempts at anything more than simple transaction and representation are compromised from the onset, and the ultimate realization of Web3 is restricted to those with the sysadmin skills to to run confusing systems themselves. So despite predating Bitcoin by about 5 years, Urbit’s vision of sound, easy-to-use, decentralized computing dovetails neatly with that of sound, easy-to-use, decentralized money.
 
